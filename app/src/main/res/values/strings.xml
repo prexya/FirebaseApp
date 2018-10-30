@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">FirebaseApp</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="upload_image">Upload Image</string>
+    <string name="signout">Logout</string>
+    <string name="signin">Login</string>
+    <string name="register">Register</string>
+
+    <string name="go_to_profile">View Profile</string>
+
+    <string name="login_register">Click here to register</string>
+
+    <string name="title_activity_signup">Register</string>
+    <string name="title_activity_feed">Your Feeds</string>
+    <string name="title_activity_profile">Your Profile</string>
+
+    <!-- Image Selection Options -->
+    <string name="add_photo">Add Photo</string>
+    <string name="take_photo">Take Photo</string>
+    <string name="choose_from_library">Choose from Library</string>
+    <string name="cancel">Cancel</string>
+    <string name="select_file">Select File</string>
+
+    <!-- Toast Messages -->
+    <string name="feed_load_fail">Failed to load feeds.</string>
+    <string name="sign_in_failed">Sign In Failed.</string>
+    <string name="registration_success">Successfully registered!</string>
+    <string name="registration_fail">Registration failed.</string>
+    <string name="enter_all_details">Enter all the details</string>
+    <string name="enter_name">Enter your name</string>
+    <string name="enter_email">Enter your email</string>
+    <string name="enter_password">Enter your password</string>
+</resources>

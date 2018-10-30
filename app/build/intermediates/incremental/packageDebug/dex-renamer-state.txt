@@ -1,0 +1,7 @@
+#Mon Jul 03 14:34:15 NPT 2017
+base.0=C\:\\Users\\preksha.shukla\\Desktop\\Project Code\\FirebaseApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_0de59213e916e2b463b70a0dce0dd1d047d34545
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\preksha.shukla\\Desktop\\Project Code\\FirebaseApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_844ae2dce1776e2f09d39b3451cddad2a94c9db9\\classes.dex
+base.1=C\:\\Users\\preksha.shukla\\Desktop\\Project Code\\FirebaseApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_844ae2dce1776e2f09d39b3451cddad2a94c9db9
+file.0=C\:\\Users\\preksha.shukla\\Desktop\\Project Code\\FirebaseApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_0de59213e916e2b463b70a0dce0dd1d047d34545\\classes.dex

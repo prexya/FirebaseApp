@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_margin="@dimen/app_margin"
+    android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <com.github.siyamed.shapeimageview.mask.PorterShapeImageView
+            android:layout_width="@dimen/star_image_size"
+            android:layout_height="@dimen/star_image_size"
+            android:id="@+id/item_feed_user_image"
+            app:siShape="@mipmap/star"
+            android:src="@drawable/ic_user"
+            app:siSquare="true"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="@dimen/small_margin"
+            android:gravity="center_vertical"
+            android:id="@+id/item_feed_name"
+            android:text="@string/username"/>
+
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/item_feed_status"/>
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/feed_image_height"
+        android:id="@+id/item_feed_image"/>
+
+</LinearLayout>

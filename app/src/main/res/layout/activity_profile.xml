@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_margin="@dimen/app_margin"
+    android:gravity="center"
+    tools:context="com.prekshashukla.firebaseapp.activities.SignupActivity">
+
+    <ImageView
+        android:layout_width="@dimen/image_border_size"
+        android:layout_height="@dimen/image_border_size"
+        android:id="@+id/activity_profile_image"
+        android:layout_marginBottom="@dimen/app_margin"
+        android:background="@drawable/image_border"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/username"
+        android:textStyle="bold"
+        android:textSize="@dimen/text_size"
+        android:id="@+id/activity_profile_username"
+        android:layout_marginBottom="@dimen/large_margin"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/email"
+        android:textStyle="bold"
+        android:id="@+id/activity_profile_email"
+        android:layout_marginBottom="@dimen/app_margin"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/signout"
+        android:id="@+id/activity_profile_signout"
+        android:layout_marginTop="@dimen/app_margin"/>
+
+</LinearLayout>
